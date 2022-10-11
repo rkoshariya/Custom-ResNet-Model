@@ -1,4 +1,4 @@
-# Custom-ResNet-Model
+# Custom-ResNet-Model( See Master Branch for code)
 Unique image prediction using custom RESNET model
 
 install c++ using command: python setup.py build_ext --inplace
@@ -9,3 +9,4 @@ There are two Jupyter Notebook attached with the file.Notebook of research folde
 and creating the model. Notebook residing in model folder is used for exporting the model in .onnx format.
 
 As per the requirement name of the operator needs to be reduction but in this project is has been changed as op.
+
